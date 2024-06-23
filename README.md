@@ -3,9 +3,22 @@
 *질문에 대한 난이도는 상/중상/중/중하/하 로 나누었습니다.*
 
 ### RecyclerView
-- 아이템 100개 와 ViewHolder 1개를 가진 RecyclerView의 동작원리를 설명 해주세요. **(중)**
-- RecyclerView or ListView 의 Pagination 구현 방법을 설명 해주세요. **(중상)**
-- 네트워크 통신을 통해 이미지를 가져오는 뷰가 포함된 ListView 또는 RecyclerView에서 빠르게 스크롤 시 생길 수 있는 이슈가 무엇이고 어떻게 수정 및 최적화를 할 수 있을까요? **(상)**
+<details markdown="1">
+<summary> 아이템 100개 와 ViewHolder 1개를 가진 RecyclerView의 동작원리를 설명 해주세요. **(중)**</summary>
+
+<!--내용 적는공간-->
+</details>
+<details markdown="1">
+<summary> RecyclerView or ListView 의 Pagination 구현 방법을 설명 해주세요. **(중상)** </summary>
+
+<!--내용 적는공간-->
+</details>
+<details markdown="1">
+<summary> 네트워크 통신을 통해 이미지를 가져오는 뷰가 포함된 ListView 또는 RecyclerView에서 빠르게 스크롤 시 생길 수 있는 이슈가 무엇이고 어떻게 수정 및 최적화를 할 수 있을까요? **(상)** </summary>
+
+<!--내용 적는공간-->
+</details>
+
 
 ### Kotlin
 - with, run 의 차이점은 무엇일까요? **(하)**
