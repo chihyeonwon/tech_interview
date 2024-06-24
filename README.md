@@ -1,4 +1,7 @@
 # 안드로이드 개발자 면접 질문리스트
+![image](https://github.com/chihyeonwon/tech_interview/assets/58906858/185c0af9-cc8b-4d42-b6db-a91c70e9aa9b)
+![image](https://github.com/chihyeonwon/tech_interview/assets/58906858/bf14d98d-3a37-44f9-8b0a-ae4a2d2e1292)
+
 
 *질문에 대한 난이도는 상/중상/중/중하/하 로 나누었습니다.*
 
